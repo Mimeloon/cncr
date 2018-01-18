@@ -1,0 +1,5 @@
+You can save the high score in a local text file and write a simple js to update it if the final score is greater than the high score
+
+(((((in html you would list out several questions and similar to a random nmbr generator you use the rand function to display the questions))))
+
+So what you can do is start with a html index page. Have a button which launches another window with the js stuff
